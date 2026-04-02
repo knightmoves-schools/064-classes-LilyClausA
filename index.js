@@ -1,12 +1,12 @@
-class Car {
-    constructor(name, year) {
-        this.name = name;
-        this.year = year;
-    }
-    age() {
-        let date = new Date ();return date.getFullYear() - this.year;
+class person {
+    constructor(firstName, lastName) {
+        this.firstNameme = Angaline;
+        this.lastName = whoopy;
     }
 
 }
-  
-let car = new Car ('toyota', 2006);
+document.getElemrntById("result").innerHTML = person;
+
+//should define a class named Person that takes two parameters: firstName and lastName when it's created
+
+//should create a list named guests that contains three instances of the Person class
