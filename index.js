@@ -6,10 +6,10 @@ class Person {
 
 }
 let guests = [
-      new Person("Avangeline");
-new Person("Andy");
-new Person("Anastatia");
-]
+      new Person("Avangeline")
+new Person("Andy")
+new Person("Anastatia")
+];
 
 
 //should define a class named Person that takes two parameters: firstName and lastName when it's created
