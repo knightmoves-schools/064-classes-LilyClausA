@@ -6,8 +6,8 @@ class Person {
 
 }
 let guests = [
-      new Person("Avangeline")
-new Person("Andy")
+      new Person("Avangeline"),
+new Person("Andy"),
 new Person("Anastatia")
 ];
 
