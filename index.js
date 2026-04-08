@@ -1,4 +1,4 @@
-class person {
+class Person {
     constructor(firstName, lastName) {
         this.firstName = firstName;
         this.lastName = lastName;
@@ -6,9 +6,9 @@ class person {
 
 }
 let guest = [
-      new person("Avangeline");
-new person("Andy");
-new person("Anastatia");
+      new Person("Avangeline");
+new Person("Andy");
+new Person("Anastatia");
 ]
 
 
